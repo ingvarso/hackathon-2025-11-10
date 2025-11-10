@@ -1,0 +1,263 @@
+{
+  "date" : "Mon, 10 Nov, 2025 10:30:09 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-ingvarso.github.io.hackathon-2025-11-10.json",
+      "size" : 2350,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 42,
+          "length" : 51
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 43,
+          "length" : 14
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 43,
+          "length" : 95
+        },
+        {
+          "activity" : "validate",
+          "start" : 45,
+          "length" : 2686
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 48,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 48,
+          "length" : 60
+        },
+        {
+          "activity" : "generate2",
+          "start" : 50,
+          "length" : 65
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 61,
+          "length" : 2
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 65,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Patient-Pasient-1.json",
+      "size" : 1162,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 42,
+          "length" : 20
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 43,
+          "length" : 1
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 43,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 43,
+          "length" : 1
+        },
+        {
+          "activity" : "validate",
+          "start" : 48,
+          "length" : 8
+        },
+        {
+          "activity" : "generate1",
+          "start" : 48,
+          "length" : 12
+        },
+        {
+          "activity" : "generate2",
+          "start" : 50,
+          "length" : 21
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-mal-observation-blodprove.json",
+      "size" : 2267,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 42,
+          "length" : 15
+        },
+        {
+          "activity" : "load",
+          "start" : 42,
+          "length" : 17
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 42,
+          "length" : 59
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 43,
+          "length" : 112
+        },
+        {
+          "activity" : "validate",
+          "start" : 43,
+          "length" : 1602
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 48,
+          "length" : 2
+        },
+        {
+          "activity" : "generate1",
+          "start" : 48,
+          "length" : 191
+        },
+        {
+          "activity" : "generate2",
+          "start" : 50,
+          "length" : 1158
+        },
+        {
+          "activity" : "generate2",
+          "start" : 52,
+          "length" : 1483
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 61,
+          "length" : 11
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-mal-patient.json",
+      "size" : 821,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 42,
+          "length" : 19
+        },
+        {
+          "activity" : "load",
+          "start" : 42,
+          "length" : 23
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 42,
+          "length" : 102
+        },
+        {
+          "activity" : "loadDepInfo",
+          "start" : 43,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 43,
+          "length" : 66
+        },
+        {
+          "activity" : "validate",
+          "start" : 44,
+          "length" : 683
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 48,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 48,
+          "length" : 244
+        },
+        {
+          "activity" : "generate2",
+          "start" : 51,
+          "length" : 998
+        },
+        {
+          "activity" : "generate2",
+          "start" : 53,
+          "length" : 715
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 61,
+          "length" : 21
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 65,
+          "length" : 2
+        }
+      ]
+    },
+    {
+      "name" : "/fsh-generated/includes/fsh-link-references.md",
+      "size" : 160
+    },
+    {
+      "name" : "/fsh-generated/includes/menu.xml",
+      "size" : 1089
+    },
+    {
+      "name" : "/input/pagecontent/index.md",
+      "size" : 1058
+    },
+    {
+      "name" : "/template/config",
+      "size" : 0
+    },
+    {
+      "name" : "/template/config/_config.yml",
+      "size" : 140
+    },
+    {
+      "name" : "/input/images",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "generate2",
+          "start" : 52,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "/input/images/test.puml",
+      "size" : 389
+    },
+    {
+      "name" : "/input/images/test.svg",
+      "size" : 8659
+    },
+    {
+      "name" : "/temp/pages/_includes/artifacts.xml",
+      "size" : 2505
+    }
+  ]
+}
