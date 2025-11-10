@@ -16,8 +16,8 @@ releaseLabel: ci-build
 jurisdiction: urn:iso:std:iso:3166#NO "Norway"
 # Oppdater navn og URL til din organisasjon
 publisher:
-  name: HL7 Norge
-  url: https://www.hl7.no
+  name: Ingvar Sørlien
+  url: https://ingvarso.github.io
 dependencies:
   hl7.fhir.no.basis: 2.2.0
 
